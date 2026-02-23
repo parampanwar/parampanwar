@@ -7,7 +7,7 @@
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/parampanwar36) [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/parampanwar)
 
 # 💻 Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,react,django,fastapi,git,github,nextjs,netlify,vercel,vscode)]
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,react,django,fastapi,git,github,nextjs,netlify,vercel,vscode)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parampanwar&theme=light&hide_border=true&include_all_commits=false&count_private=true)
